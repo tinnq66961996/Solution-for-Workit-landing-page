@@ -616,8 +616,8 @@ html {
     .logo-apply {
         display: flex;
         justify-content: space-between;
-        padding: 3rem;
-        gap: 90px;
+        padding: 3rem 0;
+        gap: 130px;
     }
     .apply-btn {
         font-family: "Manrope", sans-serif;
